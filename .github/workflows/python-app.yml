@@ -25,4 +25,5 @@ jobs:
 
     - name: Run tests with coverage
       run: |
+        export PYTHONPATH=.
         pytest --cov=calculator --cov-report=term-missing --cov-fail-under=100
