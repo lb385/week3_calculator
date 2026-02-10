@@ -5,7 +5,7 @@ A simple command-line calculator application built in Python with full unit test
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Supports basic arithmetic operations:
 
@@ -23,7 +23,7 @@ A simple command-line calculator application built in Python with full unit test
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3.12
 * Pytest
@@ -32,7 +32,7 @@ A simple command-line calculator application built in Python with full unit test
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 week3_calculator/
@@ -52,12 +52,12 @@ week3_calculator/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/lb385/week3_calculator.git
 cd week3_calculator
 ```
 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Calculator
+## Run the Calculator
 
 ```bash
 python -m calculator.repl
@@ -96,7 +96,7 @@ Result: 15
 
 ---
 
-## 🧪 Run Tests with Coverage
+##  Run Tests with Coverage
 
 ```bash
 pytest --cov=calculator --cov-report=term-missing --cov-fail-under=100
@@ -109,7 +109,7 @@ This ensures:
 
 ---
 
-## 🔁 CI/CD Pipeline (GitHub Actions)
+## CI/CD Pipeline (GitHub Actions)
 
 This project uses GitHub Actions to automatically:
 
@@ -125,7 +125,7 @@ Workflow file:
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 Listed in `requirements.txt`:
 
@@ -134,13 +134,13 @@ Listed in `requirements.txt`:
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Lohiteesh Reddy Bommareddy**
 Master’s Student in Data Science
